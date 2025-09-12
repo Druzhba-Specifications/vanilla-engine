@@ -1,10 +1,13 @@
 {
     "gamever":[
         {
-        "type": "",
+        "vername": "", 
         "major":"",
         "minor": "",
-        "subrelease":
+        "subrelease": ""
+        },
+        {
+        "comment":"refer to ver.txt for information"
         }
     ]
 }
