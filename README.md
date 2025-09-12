@@ -2,3 +2,8 @@
 A game engine that is made for websites. Uses HTML, CSS, JS, JSON, and PHP.
 
 Use it for simple, easy to make games, but nothing is stopping you from making full fledged ones.
+<h1>How to use:</h1>
+Basically, its basic, but not. Get me? (no, lol)
+Anyways, you need to clone the project to either your local device or a new repo.
+There are three files that you need to focus on:
+<h2>gamever.json<br>main.js<br>And last but not least;<br>index.html</h2>
