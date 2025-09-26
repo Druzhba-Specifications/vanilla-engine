@@ -1,1 +1,16 @@
+To set up your game version is really easy. You only have to fill our these fields:
+vername, major, minor, and subminor.
+For example, Release 1.4.3 would be as such:
 
+{
+    "gamever":[
+        {
+        "vername": "Release", 
+        "major":"1",
+        "minor": "4",
+        "subrelease": "4"
+        }
+    ]
+}
+
+And there you have it. 
