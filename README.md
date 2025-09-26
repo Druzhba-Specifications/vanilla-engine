@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Druzhba-Specifications/vanilla-engine/raw/main/druzhba-specifications/vanilla-engine/media/images/logo.png" width="25%" />
+</p>
 # vanilla-engine
 A game engine that is made for websites. Uses HTML, CSS, JS, JSON, and PHP.
 
