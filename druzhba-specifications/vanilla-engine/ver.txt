@@ -8,7 +8,7 @@ For example, Release 1.4.3 would be as such:
         "vername": "Release", 
         "major":"1",
         "minor": "4",
-        "subrelease": "4"
+        "subrelease": "3"
         }
     ]
 }
