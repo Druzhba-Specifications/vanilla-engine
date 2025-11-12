@@ -1,13 +1,8 @@
 {
-    "gamever":[
-        {
-        "vername": "Release", 
-        "major":"1",
-        "minor": "0",
-        "subrelease": "0"
-        },
-        {
-        "comment":"refer to ver.txt for information"
-        }
-    ]
+    "vername": "Release", 
+    "major":"1",
+    "minor": "0",
+    "subrelease": "0",
+    "comment":"refer to ver.txt for information"
+    
 }
