@@ -22,7 +22,7 @@ function loadScripts(scripts) {
 }
 
 // Fetch the list of scripts from the JSON file
-fetch('files.json')
+fetch('scripts.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
