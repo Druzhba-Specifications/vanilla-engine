@@ -1,7 +1,6 @@
 {
     "files": [
         "gameverfinder.js",
-        "main.js",
-        "playermovement.js"
+        "main.js"
     ]
 }
