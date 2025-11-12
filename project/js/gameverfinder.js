@@ -2,7 +2,7 @@ async function fetchAndDisplayVersion() {
     const outputDiv = document.getElementById('output');
 
     try {
-        const response = await fetch('project/ver/gameversion.json');
+        const response = await fetch('/ver/gameversion.json');
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
